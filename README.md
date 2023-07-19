@@ -119,4 +119,4 @@ q (required): The search query string.
 
 ### Deployment 
 
-  [backend](https://scary-blue-trousers.cyclic.app/)
+  [backend](https://lovebird-garters.cyclic.app/)
