@@ -120,3 +120,6 @@ q (required): The search query string.
 ### Deployment 
 
   [backend](https://lovebird-garters.cyclic.app/)
+## Output Presentation
+
+[Vido](https://drive.google.com/file/d/1It0lJkfgFYnh3WcE5vWWnWBYk9eXt0eT/view?usp=sharing)
